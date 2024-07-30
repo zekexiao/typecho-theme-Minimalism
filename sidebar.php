@@ -15,9 +15,9 @@
             <?php $this->options->description() ?>
         </div>
         <div class="follow-me">
-            <a href="https://github.com/WarnerYang" target="_blank">github</a>
-            <a href="https://yanghuaqiang.com/" target="_blank">site</a>
-            <a href="https://weibo.com/3880708094" target="_blank">weibo</a>
+            <a href="https://github.com/zekexiao" target="_blank">github</a>
+            <a href="https://zekexiao.com/" target="_blank">site</a>
+            <a href="https://c7.io/@zekexiao" target="_blank">c7.io</a>
         </div>
     </section>
     <?php if (isset($this->options->plugins['activated']['Views'])): ?>
